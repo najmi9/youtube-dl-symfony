@@ -1,0 +1,22 @@
+
+.output-line{
+    background-color: rgb(37, 201, 201);
+    color: darkorange;
+    height: 60px;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div#loader-output{
+    height: 15px;
+    background-color: blueviolet;
+}
+
+div#output{
+    width: 100%;
+}
